@@ -5,7 +5,7 @@ body {
 }
 .tabs-underlined {
   display: flex;
-  align-items: center;
+  align-content: center;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
 }
 ul{
